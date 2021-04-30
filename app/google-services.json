@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118514979785",
+    "firebase_url": "https://perguntas-58236.firebaseio.com",
+    "project_id": "perguntas-58236",
+    "storage_bucket": "perguntas-58236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118514979785:android:f101cefafa82ef58",
+        "android_client_info": {
+          "package_name": "com.example.perguntas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118514979785-nl3s7rdlmr8i7kividhppkth99g5c2ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.perguntas",
+            "certificate_hash": "c185f455d9e6e188671ab7e705c8ed7746f08f9a"
+          }
+        },
+        {
+          "client_id": "118514979785-ipfn2mahs1asnr81ohh9duq0rn2n5t19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkyPspi01gH6cM0knZm_itJc2U1Z_3e_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118514979785-ipfn2mahs1asnr81ohh9duq0rn2n5t19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
